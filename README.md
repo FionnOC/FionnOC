@@ -1,10 +1,8 @@
 ### Hi there 👋
 
 - My name is Fionn O'Connor! 
-- I'm in my third year of Computer Engineering in Trinity College Dublin
-- I'm currently learning C/C++
+- I'm in my fourth year of Computer Engineering in Trinity College Dublin
 - You can contact me by my email - oconnof9@tcd.ie
-
 
 <!--
 **FionnOC/FionnOC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
