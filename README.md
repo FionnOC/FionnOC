@@ -3,6 +3,7 @@
 - My name is Fionn O'Connor! 
 - I'm in my fourth year of Computer Engineering in Trinity College Dublin
 - You can contact me by my email - oconnof9@tcd.ie
+- I am working on my own website at the moment; it is currently deployed at https://fionn-oconnor.vercel.app/ if you would like to take a look!
 
 <!--
 **FionnOC/FionnOC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
