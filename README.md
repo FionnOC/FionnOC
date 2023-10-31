@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - My name is Fionn O'Connor! 
-- I'm in my fourth year of Computer Engineering in Trinity College Dublin
+- I'm in my fifth year, completing a Master's in Computer Engineering at Trinity College Dublin
 - You can contact me by my email - oconnof9@tcd.ie
 - I am working on my own website using Typescript and Next.js at the moment; it is currently deployed at https://fionn-oconnor.vercel.app/ if you would like to take a look!
 
